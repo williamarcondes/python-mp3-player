@@ -1,6 +1,8 @@
 # python-mp3-player
 
-Player de música em Python
+Player música em Python no terminal
+
+![Alt text](player.jpg)
 
 ## Configuração
 
